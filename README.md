@@ -49,8 +49,19 @@ This Power BI dashboard offers a detailed look at Blinkit’s operations by visu
 
 ## Insights & Conclusions
 
-* Sales have steadily increased, indicating market expansion and customer retention
-* Low Fat products outperform Regular in total revenue, aligning with health trends
-* Fruits, snacks, and packaged foods are the most popular categories by volume and revenue
-* Tier 3 medium‑sized outlets exhibit the highest average sales per transaction
-* Supermarkets lead in overall sales, while grocery stores have superior item diversity
+Revenue Growth: Outlet count doubled from 1,547 (2012) to 3,210 (2022), driving total sales to $1.20M and raising average transaction value to $140.99.
+
+Product Mix: Low Fat products account for 65% of revenue; expand low-fat offerings and run health-focused campaigns to align with consumer preferences.
+
+Promotional Priorities: Fruits & Vegetables top revenue at $178K, followed by Snack Foods ($175K) and Household Items ($136K); prioritize promotions and stock levels accordingly.
+
+Revenue Drivers: Reveals that medium outlets capture the majority of revenue; prioritize opening and investing in medium-format stores to maximize ROI.
+
+Performance Insights: Supermarket Type1 drives the bulk of revenue with 65.5% of total sales ($787.55K), while Grocery Stores contribute 12.6% ($151.94K) and Supermarket Type2/3 each contribute around 10.9%.
+
+Sales Spike: Identifies a market sweet spot where newly established outlets (2018 cohort) delivered exceptional performance; replicate successful practices (location selection, launch promotions) in future expansions.
+
+Future Focus: Overall rating of 3.97/5 with 22% of products rated above 4.5 highlights strong satisfaction and opportunities to promote top-rated items.
+
+
+Disclaimer: This dashboard leverages sample data for educational and demonstration purposes.
