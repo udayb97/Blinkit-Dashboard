@@ -42,9 +42,10 @@ This Power BI dashboard offers a detailed look at Blinkit’s operations by visu
 * **Performance Comparison:** Bar and column visuals comparing outlets by type and location tier
 * **Detailed Tables:** Tabular views with search and sorting for deeper inspection
 
-##Dashboard Screenshot
+## Dashboard Screenshot
 
-Blinkit-Dashboard.png
+![Blinkit Dashboard](./Blinkit-Dashboard.png)
+
 
 ## Insights & Conclusions
 
